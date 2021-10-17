@@ -8,4 +8,4 @@ greeting - practicing inputs and outputs
 
 tax - calculate basic sales tax
 
-rock_paper_scissors - use of if and else statements to make a game; additional use of str.lower() to facilitate exception management
+rock_paper_scissors - use of if and else statements to make a game; additional use of str.lower() to facilitate exception management; additionally imported from standarded library to utilize randomization function on lists
