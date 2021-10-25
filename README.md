@@ -13,3 +13,8 @@ rock_paper_scissors - use of if and else statements to make a game; additional u
 expenses - use of lists and for loops; comments to show more than one way to sum a list.
 
 expenses_2 - use of for loop with range to build list and sum calculator. Use of round () to limit floating point number when printing out answer
+
+movie_schedule - use of dictionaries and for loops
+
+contacts - extracting data from dictionaries within dictionaries 
+
