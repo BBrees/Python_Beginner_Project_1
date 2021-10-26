@@ -18,3 +18,5 @@ movie_schedule - use of dictionaries and for loops
 
 contacts - extracting data from dictionaries within dictionaries 
 
+space_people - contect to open.notify api to find the current number of people in space and their names
+
